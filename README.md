@@ -1,4 +1,4 @@
-## Codeworks Chat App Assignment
+# Codeworks Chat App Assignment
 
 The coding assignment I was assigned to complete to enroll to the Codeworks Software Engineering Course was a very basic and simple chat app, which on one end the computer is to generate messages (not needed to be accurately responsive) which are displayed to the user. In contrast, the user should be able to post messages which can displayed in a chat window with the time the message was sent.
 
@@ -10,7 +10,7 @@ The `submitted_version` directory I have included in this repository is the prec
 
 ***
 
-### Chat App Assignment Requirements
+## Chat App Assignment Requirements
 
 * On one side the computer will generate a random conversation, on the other side the user can post messages.
  
