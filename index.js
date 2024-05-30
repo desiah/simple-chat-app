@@ -76,12 +76,12 @@ function receiveMessage(string) {
     let $messageTime = $('<p>')
         .addClass('time-sent-incoming-message')
         .text(`Sent at: ${date
-        .getDate()}/${date
-        .getMonth() + 1}/${date
-        .getFullYear()} ${date
-        .getHours()}:${date
-        .getMinutes()}:${date
-        .getSeconds()}`);
+            .getDate()}/${date
+            .getMonth() + 1}/${date
+            .getFullYear()} ${date
+            .getHours()}:${date
+            .getMinutes()}:${date
+            .getSeconds()}`);
 
     let $messageDiv = $('<div>')
         .append($message)
